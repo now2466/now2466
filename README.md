@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R programming-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now2466&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![noew2466's GitHub stats](https://github-readme-stats.vercel.app/api?username=now2466&show_icons=true&theme=dracula)
