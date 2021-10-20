@@ -1,4 +1,5 @@
 ### Youngmin Yoon👋
+https://velog.io/@now2466
 
 <!--
 **now2466/now2466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
