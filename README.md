@@ -1,5 +1,6 @@
 ### Youngmin Yoon👋
-https://velog.io/@now2466
+
+
 
 <!--
 **now2466/now2466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R programming-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
+
+Interested in Computer Vision
 
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;">
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
