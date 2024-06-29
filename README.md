@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R programming-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
 
-Interested in Computer Vision
+Interested in Deep Learning and Computer Vision, with a particular focus on safety-related domains and the commercialization of AI.
 
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;">
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
@@ -34,13 +34,5 @@ Interested in Computer Vision
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=now2466&hide_progress=true&theme=tokyonight width="280" height=156 alt="MUL" />
   </div>
   
-  <div key="6">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=now2466
-        alt="oreuda"
-      />
-    </a>
-  </div>
   
 </div>
