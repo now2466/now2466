@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R programming-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
 
 Interested in Deep Learning and Computer Vision, with a particular focus on safety-related domains and the commercialization of AI.
 
